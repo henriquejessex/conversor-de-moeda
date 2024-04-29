@@ -1,5 +1,7 @@
 
-![Exchange](demo/src/img/exchange.png)
+![Exchange][def2]
+
+![Badge][def]
 
 # Resumo do projeto
 Consumindo ExchangeRate-API para comparar duas moedas disponives.
@@ -15,3 +17,7 @@ Consumindo ExchangeRate-API para comparar duas moedas disponives.
 - ``Java 17``
 - ``VSCode``
 - ``Paradigma de orientação a objetos``
+
+
+[def]: demo/src/img/Badge-Conversor.png
+[def2]: demo/src/img/exchange.png
